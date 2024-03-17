@@ -25,12 +25,7 @@ This Node.js application utilizes the Google Gmail API to automatically reply to
 - Run the application:-
 - Follow the instructions in the terminal to authorize the application with your Gmail account.
 - Once authorized, the application will start responding to unread messages with the vacation response.
-
-## Customization
-
-- Modify the vacation response message in the `generateVacationResponse` function in `index.js`.
-- Adjust any other configurations as needed to suit your requirements.
-
+  
 ## Notes
 
 - Ensure that you have appropriate permissions to access the Gmail account from which you want to fetch and reply to messages.
